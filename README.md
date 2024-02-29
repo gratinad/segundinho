@@ -16,7 +16,7 @@ tabela (I hope)
 ```
 *sedundo dados da ux
 ```
-
+![gráfico dos numeros UC]("C:\Users\frede\Documents\GitHub\segundinho\Imagens\jesusviz.svg")
 
 ## Acerca
 Este reposittório blá, blá, lorem ipsum.
