@@ -1,2 +1,2 @@
 # segundinho
-segundo respositoio
+O segundo repositorio de Frederifco
