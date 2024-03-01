@@ -1,5 +1,5 @@
 # segundinho
-O segundo repositorio de Frederifco
+O segundo repositorio de Frederico.
 
 ## Numeros na UC
 
@@ -14,13 +14,14 @@ tabela (I hope)
 |Bolseiros| 213321 |
 
 ```
-*sedundo dados da ux
+*numeros não reais
 ```
-![gráfico dos numeros UC]("C:\Users\frede\Documents\GitHub\segundinho\Imagens\jesusviz.jpg")
+![gráfico dos numeros UC]("C:\Users\frede\Documents\GitHub\segundinho\Imagens\jesusviz.jpg") 
+não percebi porque é que não deu.
 
 ## Acerca
 Este reposittório blá, blá, lorem ipsum.
-Je m'appele mizé. Um exemplo de link [Texto de link](www.google.com)
+(não consegui ouvir tudo, portanto estou a escrever palavras). Um exemplo de link [Texto de link](www.google.com)
 
 Vamos lá ver se há uma linha.
 
